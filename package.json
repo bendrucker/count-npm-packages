@@ -1,0 +1,33 @@
+{
+  "name": "count-npm-packages",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Get the number of top level npm packages",
+  "license": "MIT",
+  "repository": "bendrucker/count-npm-packages",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "npm",
+    "folder",
+    "node_modules"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^7.0.0"
+  },
+  "files": [
+    "index.js",
+    "test.js"
+  ],
+  "dependencies": {
+    "filter-async": "~1.0.0",
+    "run-parallel": "~1.1.6"
+  }
+}
