@@ -1,4 +1,4 @@
-# count-npm-packages [![Build Status](https://travis-ci.org/bendrucker/count-npm-packages.svg?branch=master)](https://travis-ci.org/bendrucker/count-npm-packages)
+# count-npm-packages [![Build Status](https://travis-ci.org/bendrucker/count-npm-packages.svg?branch=master)](https://travis-ci.org/bendrucker/count-npm-packages) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/count-npm-packages.svg)](https://greenkeeper.io/)
 
 > Get the number of top level npm packages
 
