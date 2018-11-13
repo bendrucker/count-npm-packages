@@ -1,0 +1,13 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "fixtures/plain/my-pkg/package.json",
+        "fixtures/scoped/@scope/scoped-pkg-2/package.json",
+        "fixtures/scoped/@scope/scoped-pkg/package.json",
+        "fixtures/scoped/my-pkg/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
